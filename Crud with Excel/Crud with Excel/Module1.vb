@@ -11,7 +11,7 @@ Module Module1
 
     Sub Koneksi()
         'string koneksi ke data excel
-        CONN = New OleDbConnection("provider=Microsoft.ace.OLEDB.12.0;data source=D:\N3PTUNUS\PKL\D_B.xlsx;Extended Properties=Excel 8.0;")
+        CONN = New OleDbConnection("provider=Microsoft.ace.OLEDB.12.0;data sourceD:\Coding\PKL\D_B.xlsx;Extended Properties=Excel 8.0;")
         CONN.Open()
     End Sub
 End Module

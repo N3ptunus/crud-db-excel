@@ -8,3 +8,13 @@ C:\Users\Arief\documents\visual studio 2010\Projects\Crud with Excel\Crud with E
 C:\Users\Arief\documents\visual studio 2010\Projects\Crud with Excel\Crud with Excel\obj\x86\Debug\Crud with Excel.exe
 C:\Users\Arief\documents\visual studio 2010\Projects\Crud with Excel\Crud with Excel\obj\x86\Debug\Crud with Excel.xml
 C:\Users\Arief\documents\visual studio 2010\Projects\Crud with Excel\Crud with Excel\obj\x86\Debug\Crud with Excel.pdb
+D:\Coding\PKL\Crud with Excel\Crud with Excel\obj\x86\Debug\Crud with Excel.vbproj.ResolveComReference.cache
+D:\Coding\PKL\Crud with Excel\Crud with Excel\obj\x86\Debug\Crud with Excel.exe
+D:\Coding\PKL\Crud with Excel\Crud with Excel\obj\x86\Debug\Crud with Excel.xml
+D:\Coding\PKL\Crud with Excel\Crud with Excel\obj\x86\Debug\Crud with Excel.pdb
+D:\Coding\PKL\Crud with Excel\Crud with Excel\bin\Debug\Crud with Excel.exe
+D:\Coding\PKL\Crud with Excel\Crud with Excel\bin\Debug\Crud with Excel.pdb
+D:\Coding\PKL\Crud with Excel\Crud with Excel\bin\Debug\Crud with Excel.xml
+D:\Coding\PKL\Crud with Excel\Crud with Excel\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\Coding\PKL\Crud with Excel\Crud with Excel\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Coding\PKL\Crud with Excel\Crud with Excel\obj\x86\Debug\Crud with Excel.vbproj.GenerateResource.Cache

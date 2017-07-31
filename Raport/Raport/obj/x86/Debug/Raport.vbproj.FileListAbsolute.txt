@@ -1,0 +1,48 @@
+C:\Users\N3PTUNUS\AppData\Local\Temporary Projects\Rapor\bin\Debug\Rapor.exe
+C:\Users\N3PTUNUS\AppData\Local\Temporary Projects\Rapor\bin\Debug\Rapor.pdb
+C:\Users\N3PTUNUS\AppData\Local\Temporary Projects\Rapor\bin\Debug\Rapor.xml
+C:\Users\N3PTUNUS\AppData\Local\Temporary Projects\Rapor\obj\x86\Debug\Rapor.Data_Jurusan.resources
+C:\Users\N3PTUNUS\AppData\Local\Temporary Projects\Rapor\obj\x86\Debug\Rapor.Form1.resources
+C:\Users\N3PTUNUS\AppData\Local\Temporary Projects\Rapor\obj\x86\Debug\Rapor.Resources.resources
+C:\Users\N3PTUNUS\AppData\Local\Temporary Projects\Rapor\obj\x86\Debug\Raport.vbproj.GenerateResource.Cache
+C:\Users\N3PTUNUS\AppData\Local\Temporary Projects\Rapor\obj\x86\Debug\Rapor.exe
+C:\Users\N3PTUNUS\AppData\Local\Temporary Projects\Rapor\obj\x86\Debug\Rapor.xml
+C:\Users\N3PTUNUS\AppData\Local\Temporary Projects\Rapor\obj\x86\Debug\Rapor.pdb
+C:\Users\N3PTUNUS\AppData\Local\Temporary Projects\Rapor\obj\x86\Debug\Raport.vbproj.ResolveComReference.cache
+C:\Users\N3PTUNUS\documents\visual studio 2010\Projects\Raport\Raport\obj\x86\Debug\Raport.vbproj.ResolveComReference.cache
+C:\Users\N3PTUNUS\documents\visual studio 2010\Projects\Raport\Raport\bin\Debug\Raport.exe
+C:\Users\N3PTUNUS\documents\visual studio 2010\Projects\Raport\Raport\bin\Debug\Raport.pdb
+C:\Users\N3PTUNUS\documents\visual studio 2010\Projects\Raport\Raport\bin\Debug\Raport.xml
+C:\Users\N3PTUNUS\documents\visual studio 2010\Projects\Raport\Raport\obj\x86\Debug\Rapor.Data_Jurusan.resources
+C:\Users\N3PTUNUS\documents\visual studio 2010\Projects\Raport\Raport\obj\x86\Debug\Rapor.Form1.resources
+C:\Users\N3PTUNUS\documents\visual studio 2010\Projects\Raport\Raport\obj\x86\Debug\Rapor.Resources.resources
+C:\Users\N3PTUNUS\documents\visual studio 2010\Projects\Raport\Raport\obj\x86\Debug\Raport.vbproj.GenerateResource.Cache
+C:\Users\N3PTUNUS\documents\visual studio 2010\Projects\Raport\Raport\obj\x86\Debug\Raport.exe
+C:\Users\N3PTUNUS\documents\visual studio 2010\Projects\Raport\Raport\obj\x86\Debug\Raport.xml
+C:\Users\N3PTUNUS\documents\visual studio 2010\Projects\Raport\Raport\obj\x86\Debug\Raport.pdb
+D:\Daftar Proyek\New folder\Raport\Raport\obj\x86\Debug\Raport.vbproj.ResolveComReference.cache
+D:\Daftar Proyek\New folder\Raport\Raport\obj\x86\Debug\Raport.exe
+D:\Daftar Proyek\New folder\Raport\Raport\obj\x86\Debug\Raport.xml
+D:\Daftar Proyek\New folder\Raport\Raport\obj\x86\Debug\Raport.pdb
+D:\Daftar Proyek\New folder\Raport\Raport\bin\Debug\Raport.exe
+D:\Daftar Proyek\New folder\Raport\Raport\bin\Debug\Raport.pdb
+D:\Daftar Proyek\New folder\Raport\Raport\bin\Debug\Raport.xml
+D:\Daftar Proyek\New folder\Raport\Raport\obj\x86\Debug\Rapor.Data_Jurusan.resources
+D:\Daftar Proyek\New folder\Raport\Raport\obj\x86\Debug\Rapor.Form1.resources
+D:\Daftar Proyek\New folder\Raport\Raport\obj\x86\Debug\Rapor.Resources.resources
+D:\Daftar Proyek\New folder\Raport\Raport\obj\x86\Debug\Raport.vbproj.GenerateResource.Cache
+C:\Users\N3PTUNUS\Downloads\Raport\Raport\obj\x86\Debug\Raport.vbproj.ResolveComReference.cache
+C:\Users\N3PTUNUS\Downloads\Raport\Raport\obj\x86\Debug\Raport.exe
+C:\Users\N3PTUNUS\Downloads\Raport\Raport\obj\x86\Debug\Raport.xml
+C:\Users\N3PTUNUS\Downloads\Raport\Raport\obj\x86\Debug\Raport.pdb
+D:\Coding\PKL\Raport\Raport\obj\x86\Debug\Raport.vbproj.ResolveComReference.cache
+D:\Coding\PKL\Raport\Raport\obj\x86\Debug\Raport.exe
+D:\Coding\PKL\Raport\Raport\obj\x86\Debug\Raport.xml
+D:\Coding\PKL\Raport\Raport\obj\x86\Debug\Raport.pdb
+D:\Coding\PKL\Raport\Raport\bin\Debug\Raport.exe
+D:\Coding\PKL\Raport\Raport\bin\Debug\Raport.pdb
+D:\Coding\PKL\Raport\Raport\bin\Debug\Raport.xml
+D:\Coding\PKL\Raport\Raport\obj\x86\Debug\Rapor.Data_Jurusan.resources
+D:\Coding\PKL\Raport\Raport\obj\x86\Debug\Rapor.Form1.resources
+D:\Coding\PKL\Raport\Raport\obj\x86\Debug\Rapor.Resources.resources
+D:\Coding\PKL\Raport\Raport\obj\x86\Debug\Raport.vbproj.GenerateResource.Cache

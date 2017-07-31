@@ -1,0 +1,11 @@
+D:\Daftar Proyek\New folder\Raport\Raport\bin\Release\Raport.exe
+D:\Daftar Proyek\New folder\Raport\Raport\bin\Release\Raport.pdb
+D:\Daftar Proyek\New folder\Raport\Raport\bin\Release\Raport.xml
+D:\Daftar Proyek\New folder\Raport\Raport\obj\x86\Release\Raport.vbproj.ResolveComReference.cache
+D:\Daftar Proyek\New folder\Raport\Raport\obj\x86\Release\Rapor.Data_Jurusan.resources
+D:\Daftar Proyek\New folder\Raport\Raport\obj\x86\Release\Rapor.Form1.resources
+D:\Daftar Proyek\New folder\Raport\Raport\obj\x86\Release\Rapor.Resources.resources
+D:\Daftar Proyek\New folder\Raport\Raport\obj\x86\Release\Raport.vbproj.GenerateResource.Cache
+D:\Daftar Proyek\New folder\Raport\Raport\obj\x86\Release\Raport.exe
+D:\Daftar Proyek\New folder\Raport\Raport\obj\x86\Release\Raport.xml
+D:\Daftar Proyek\New folder\Raport\Raport\obj\x86\Release\Raport.pdb
